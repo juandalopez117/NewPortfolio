@@ -1,0 +1,35 @@
+{
+    "experience": "Experiencia profesional",
+    "description": "Experiencia en los campos de analisis y ciencia de datos, matemáticas (enseñanza) y desarrollo web",
+    "data": {
+        "title": "Análisis y ciencia de datos",
+        "description": "Experiencia y formación relacionada con el análisis de datos y la ciencia de datos",
+        "jobs": {
+            "title": "Analista de datos",
+            "company": "Stable APP LLC",
+            "date": "Marzo 2023 - Presente",
+            "description": "Data analysis and data science",
+            "tasks": [
+                "Diseño, creación y mantenimiento de varios dashboard conectados a bases de datos almacenadas en Azure SQL Database. Estos paneles de control simplificaron significativamente los cálculos financieros mensuales y proporcionaron insights precisos sobre el comportamiento del usuario en varios intervalos de tiempo",
+                "Creación de varios flujos de trabajo para la extracción y almacenamiento de bases de datos de múltiples fuentes, incluyendo MongoDB y conexiones con diversas APIS hacia Azure SQL, centralizando eficientemente la información para análisis y visualización posteriores",
+                "Uso e implementación de varias herramientas del ecosistema de Azure (incluyendo bases de datos de Azure y pipelines creados en Azure Data Factory) para optimizar los flujos de trabajo de procesamiento de datos, mejorar la integración de datos y aumentar la eficiencia general en la gestión de datos."
+            ]
+        }
+    },
+    "teaching": {
+        "title": "Matemáticas",
+        "description": "Experiencia y formación relacionada con la matemática",
+        "jobs": {
+            "title": "Experience 1",
+            "description": "Data analysis and data science"
+        }
+    },
+    "development": {
+        "title": "Desarrollo web",
+        "description": "Experiencia y formación relacionada con el desarrollo web",
+        "jobs": {
+            "title": "Experience 1",
+            "description": "Data analysis and data science"
+        }
+    }
+}

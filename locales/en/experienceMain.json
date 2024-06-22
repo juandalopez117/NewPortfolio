@@ -1,0 +1,28 @@
+{
+    "experience": "Experience and Formation",
+    "description": "Experience and formation related to data analysis and data science, mathematics and development",
+    "data": {
+        "title": "Data Analysis and data science",
+        "description": "Experience and formation related to data analysis and data science",
+        "jobs": {
+            "title": "Experience 1",
+            "description": "Data analysis and data science"
+        }
+    },
+    "teaching": {
+        "title": "Mathematics",
+        "description": "Experience and formation related to mathematics",
+        "jobs": {
+            "title": "Experience 1",
+            "description": "Data analysis and data science"
+        }
+    },
+    "development": {
+        "title": "Development",
+        "description": "Experience and formation related to development",
+        "jobs": {
+            "title": "Experience 1",
+            "description": "Data analysis and data science"
+        }
+    }
+}

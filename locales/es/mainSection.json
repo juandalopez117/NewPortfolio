@@ -1,0 +1,18 @@
+{
+    "hello": "hello",
+    "hi": "Hola a todos!",
+    "name": "Soy Juan David",
+    "profile": "Matemático, Analista/científico de datos",
+    "analyze": {
+        "title": "Análisis",
+        "description": "Gracias a mi formación, poseo herramientas avanzadas de análisis de datos que me permiten estudiar la información proporcionada, tanto de manera general como particular, adaptándome a los diferentes contextos"
+    },
+    "extract": {
+        "title": "Extracción",
+        "description": "Mi formación me ha dotado de habilidades analíticas avanzadas que me permiten descomponer problemas complejos y comprender patrones ocultos en los datos. Utilizo técnicas estadísticas y modelos predictivos para obtener conclusiones precisas y útiles"
+    },
+    "visualize": {
+        "title": "Visualización",
+        "description": "Tengo la capacidad de transformar datos complejos en visualizaciones claras y atractivas. Utilizo herramientas de visualización de datos para presentar información de manera que sea fácil de entender y que facilite la toma de decisiones informadas"
+    }
+}
